@@ -1,7 +1,7 @@
 % Microstrip Patch Antenna Design
-frequency = 2.4e9; % Operating frequency (2.4 GHz)
+frequency = 2.0e9; % Operating frequency (2.0 GHz)
 c = 3e8; % Speed of light
-epsilon_r = 4.4; % Relative permittivity of substrate
+epsilon_r = 3.5; % Relative permittivity of substrate
 
 % Calculate dimensions
 wavelength = c / frequency;
